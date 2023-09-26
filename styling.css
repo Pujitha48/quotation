@@ -1,0 +1,59 @@
+h1{
+    text-align : center;
+    color:red;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    flex-direction: column;
+}
+.class1{
+    font-size: 25px;
+    margin-left: 15%;
+    color:white;
+    margin-right:15%;
+    background-color: darkgreen;
+    text-align:center;
+    border-radius: 5%;
+    flex-direction: column;
+}
+
+
+
+body{
+    background-image: url(Soothing.webp);
+    
+    background-size: cover; /* Adjust as needed (cover, contain, auto, etc.) */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-position: center center; 
+    flex-direction: column;
+}
+.class2{
+    font-size: 25px;
+    margin-left: 15%;
+    color:white;
+    margin-right:15%;
+    background-color:#363837;
+    text-align:center;
+    border-radius: 5%;
+    flex-direction: column;
+}
+   
+   .class3{
+    font-size: 25px;
+    margin-left: 15%;
+    color:white;
+    margin-right:15%;
+    background-color: darkgreen;
+    text-align:center;
+    border-radius: 5%;
+    flex-direction: column;
+   }
+   .class4{
+    font-size: 25px;
+    margin-left: 15%;
+    color:white;
+    margin-right:15%;
+    background-color:#363837;
+    text-align:center;
+    border-radius: 5%;
+    flex-direction: column;
+   }
